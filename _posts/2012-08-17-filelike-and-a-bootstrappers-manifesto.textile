@@ -1,0 +1,39 @@
+---
+layout: post
+title: Filelike and a bootstrapper's manifesto
+enki_id: 30
+categories: filelike, business, bootstrapping
+---
+Not so long ago, I was talking to a family member who was interested in ways that they could sell an electronic version a book they'd written and this got me thinking about selling electronic files online.
+
+Of course there is a huge number of options for selling files online, but most work off a model that places the online store as the central focus. Come to the online store, buy a file and leave. I had a different interest: with the plethora of ways that even non-technical people can create a 'website' of some kind for themselves these days (hosted blogs, Twitter, a Facebook wall, etc.) what about a site that just provides a facility to upload a file and then gives back a URL that can be used however and wherever one sees fit? I named my idea "Filelike":https://filelike.com and with this post, I consider it officially launched.
+
+Filelike is simple by design and my intention was that it should largely speak for its self. So for the rest of this first post on Filelike, I'd prefer to talk about the ideas that Filelike embodies to me. I don't call Filelike a 'startup', I see it as the first in what I intend to be a series of "MVP":http://en.wikipedia.org/wiki/Minimum_viable_product, bootstrapped side-projects, that will be collected under my umbrella business: Binary Balance.<!-- :truncate: --> 
+
+h3. The 'manifesto' part
+
+So why a bootstrapped MVP side-project rather than a startup? Shouldn't I be dropping everything else and 'swinging for the fences', executing a 'full-court press', trying to 'knock it for six'? or some other sports-born idiom? I spend a fair amount of online leisure time at Hacker News, and I have a huge amount of respect for the men and women who have that big idea and put their all into realising it. Maybe they quit their job, or maybe (so the more traditional narrative seems to go) they're students and might not have had a 'real job' in IT yet. Whatever the case, more power to them I say. But this is not my dream and this is partially a result of existing circumstance and partially a result of personal choice.
+
+I live in Australia, and while we enjoy some pretty awesome benefits here, such as an abundance of funny looking marsupials and having so far weathered the global financial crisis remarkably well[1], the investment environment in my country as it relates to tech startups has never been like what one might find in the US. Although there are those "actively working":http://www.startmate.com.au/ towards "changing this":http://siliconbeachaustralia.org/. Our culture here is quite risk averse in general and many people I have spoken to or heard speak, say that Australia often exhibits a rather unfortunate tendency towards "tall poppy syndrome":http://en.wikipedia.org/wiki/Tall_poppy_syndrome particularly when it comes to startups.
+
+But of more relevance to me personally is the fact that I want something different for myself. I've not been an official student and have had a series of 'real jobs' for the better part of ten years now. I have responsibilities to family, to myself, that I cannot or do not wish to renounce. This precludes me from quitting my day job, at least for the foreseeable future.
+
+But I'm passionate about building stuff! Cool stuff! Fun stuff! On my own, or with friends. For me, the journey its self is much of the reward. People often seem so focussed on building the next big viral success, the next product that will blow up exponentially and make everyone involved rich! Rich, I tells ya! I wonder if these people are aware that - above a certain threshold - "more money does not equal more emotional well-being":http://www.pnas.org/content/107/38/16489.full.pdf. If on the other hand, one wants to drop everything to try and make the next big viral success and at least 51% of their reason for doing so is not the financial pay-off but rather it is because they want to create, they want to express themselves, they want self-determination and the potential financial windfall is just an added bonus or a means to this end[2], then I can completely identify as this is closer to the feeling I have myself.
+
+I say 'closer to' because there is another aspect to my view: realism and sustainability.
+
+h3. Realism
+
+I don't know what the exact odds are of creating the next Google or Facebook or Twitter or Reddit or Pintrest are, but I think it is pretty safe understatement to say that the odds are quite slim. My geographical location and the fact that I am quite happy living where I am would only worsen my chances. I feel that creating a series of MVPs without placing all my eggs in one basket is far more realistic for my personal situation. Maybe one idea takes off more so than others and I do eventually decide to concentrate on it more completely, maybe my series of products just simmer away, but eventually and in aggregate provide me both with the creative outlet I desire and go some or all of the way towards the more self-determined future that I wish to create for myself. But in any case, the path that I have chosen does not include 'betting the farm' on that one big idea.
+
+h3. Sustainability
+
+Environmentalists speak of the inherit illogicality of assuming that never ending exponential growth can be wrung out of a finite system. And I wonder how this largely unexamined illogical assumption plays into society on a business and cultural level. We're still experiencing "the most recent and hard to ignore example":http://en.wikipedia.org/wiki/2007%E2%80%932012_global_financial_crisis of what happens when profit is pursued over all else and never-ending growth is assumed. Is it possible that we'd be better off if more people pursued a sustainable, healthy, but not necessarily _exponentially_ growing business? Dare I say it... "a lifestyle business":http://www.youtube.com/watch?v=y8Kyi0WNg40. I've heard one honest venture capitalist say on record that they are only interested in exponentially growing businesses because that's the only model that makes investing worthwhile for them. To many venture capitalist's credit, without their scale of investments, the world would no doubt be worse off in many ways. But let's face it, the dark underbelly of this kind of activity can often just be plain old greed, and greed is the enemy of sustainability. I'm not proposing an "XOR":http://en.wikipedia.org/wiki/Exclusive_or here, I don't have any religious belief that demands never taking outside funding for a business venture. I just feel that having a business model that involves more than obsessive courting of outside funding better serves my personal goal of sustainability (or alternatively it serves to quickly prove unsustainability).
+
+It would certainly seem that the exponential growth model has the majority of mindshare in my industry at present. I wonder what potentially unexamined and sometimes unhealthy motivations within ourselves might lead to this state of affairs? What possibilities exist for a business when it doesn't need to worry about paying back investors almost from the outset? Which problems might be avoided and which others might result? These are the kinds of questions I intend to explore firsthand, this is the journey I have embarked on. And I'm always happy to have some company. :)
+
+Are you bootstrapping a project? I'd love to hear your story.
+
+fn1. Indeed there are many in my country fretting about how well the Australian Dollar is doing against the Greenback these days!
+
+fn2. I suspect it is these sorts of people who more often go on to build the massive and well known services that we all use today. They're not primarily in it for the money. They're in it for the creativity, the fun, the challenge.

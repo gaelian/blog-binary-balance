@@ -1,0 +1,21 @@
+---
+layout: post
+title: The pantheon of initials
+enki_id: 9
+categories: identity
+---
+I've always found it interesting and kind of cool how in the programming world, one of the ways you can tell you've made an impact is if people refer to you by your initials and everyone else knows who they mean. "RMS":http://en.wikipedia.org/wiki/Richard_Stallman, "JWZ":http://en.wikipedia.org/wiki/Jwz, "DHH":http://en.wikipedia.org/wiki/David_Heinemeier_Hansson and "PG":http://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29 are the four that I can think of off the top of my head and I'm sure there are more.
+
+It seems like this practice is not surprisingly more common with people who have long names. It also seems that more of the older guys seem to have ended up with the initials moniker. The practice no doubt mostly stems from the limitations of the medium through which these people and those that talk to or about them direct much of their communication: text. Usernames, email, instant message, blogging, Internet forums etc, etc. I guess it comes down to 'the less keystrokes the better'. Programmers are nothing if not a generally logical and practical bunch.<!-- :truncate: -->
+
+h3. The 'plain text' aesthetic
+
+Richard Stallman has been quoted as saying:
+
+bq. 'Richard Stallman' is just my mundane name; you can call me 'rms'.
+
+The use of initials as one's primary moniker and possibly even valuing it over one's full name as RMS seems to, speaks to me of what I will term the 'plain text' aesthetic. I see this quality in myself and some other people who spend any reasonable amount of time programming or pursuing related technical activities. When I say 'plain text' I don't strictly mean that we only like plain text, though in some situations this may be true (I'm looking at you, email). What I really mean is that it seems like people who have this 'plain text' aesthetic don't mind and may even prefer a website, or an interface that's visually simple - some maybe even describing it as lacking in styling or presentation - as long as it effectively coveys the required information or effectively allows for the desired interaction. Indeed, part of this effectiveness may be that the website or interface lacks distracting design features that otherwise may have been added for the sake of form over function. You could look at a command line UI as one example of an interface that might be in line with the 'plain text' aesthetic, maybe "Pinboard":http://pinboard.in/ as an example of a website. I'm sure one could argue that it's not so much that programmers like the 'plain text' aesthetic, it's that for the most part they're not graphic designers, ergo any website or interface designed by a programmer will look pretty straight forward and bare. There's probably a fair bit of truth to that, but it's not the whole story. More than this, I believe that I am often drawn to the simplified and straight forward over the ostentatious or overly styled, it's a deliberate choice for me in many cases. One of the things that drew me to Pinboard (aside from it's tag line: 'Social bookmarking for introverts') was that it was more minimalist than "Delicious":http://www.delicious.com/ and that this minimalism carried through to the visual design.
+
+I suspect I have to be careful with this personal preference for minimalism though. It doesn't seem like a lot of the general population shares the 'plain text' aesthetic and I would do well to remember this when promoting or designing my own products or services to all but the least common niche markets that may share my personal taste (e.g. geeks). Where people like me might be happy to judge a book by it's contents, the cover is still what matters to most people and the marketing industry is well aware of this. Perhaps the 'plain text' aesthetic is in part a cynical reaction to the marketing spin and superficiality that's so prevalent in the world today.
+
+The pantheon of initials and the 'plain text' aesthetic; small artifacts of what is still a relatively new culture with new norms of communication and new views on identity and taste. Maybe I should start using my initials, I have three as well. Or not.

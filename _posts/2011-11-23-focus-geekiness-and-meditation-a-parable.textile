@@ -1,0 +1,63 @@
+---
+layout: post
+title: Focus, geekiness and meditation - a parable
+enki_id: 24
+categories: focus, meditation, philosophy
+---
+I was recently reading a blog post entitled '"How to work from home without going insane ==(purple monkey dishwasher)==":http://blog.davidtate.org/2011/09/how-to-work-from-home-without-going-insane-purple-monkey-dishwasher/' by David Tate.
+
+The post has a lot of good advice and observations in it, relevant to my interests because working from home is something I aspire to be doing more of.
+
+In the section on interruptions, where - referring to adjusting from the more typical office environment to working from home - David writes:
+
+bq. What you will realize is that outside of your normal distractions your body has learned to not focus for very long on anything.
+
+I stopped at that sentence for a moment, because whenever I come across someone talking/writing about how they have trouble focussing - and I come across this reasonably often - it makes me wonder why I _usually_ don't have this problem.<!-- :truncate: --> I say '_usually_' because everyone has times when they can't focus, can't get in the zone, but for me - "as I've written about previously":/2010/11/17/goldfish-in-a-sea-of-information - it's not typically when I'm working towards a goal that I have trouble focussing. I more often have the opposite problem: I forget to take breaks when I probably should. Not all focus is equal, though. While I generally have no issues focussing on a task, I sometimes do find myself getting side-tracked by what can turn out to be irrelevant details, call it "premature optimisiation":http://c2.com/cgi/wiki?PrematureOptimization or not seeing the forrest for the trees. Such are the pitfalls of the perfectionist streak.
+
+h3. In any case, why do I usually have little trouble focussing?
+
+I can make some educated guesses.
+
+I was introduced to meditation at an early age. Also from an early age my parents had an agreement with me that should I try an activity - for example, learning piano - then I had to do it for a minimum of three months before I could quit if I decided I didn't like it. I have no definitive proof, but I suspect that engaging in this kind of mental discipline in early childhood started me on the right track to being able to effectively focus for long periods of time.
+
+Further development of my ability to focus happened rather organically as I explored other activities. From the age of about 9 I started to play "pen and paper RPGs":http://en.wikipedia.org/wiki/Role-playing_game such as "AD&D":http://en.wikipedia.org/wiki/Editions_of_Dungeons_%26_Dragons#Advanced_Dungeons_.26_Dragons and "Rifts":http://en.wikipedia.org/wiki/Rifts. My parents being of the educated and logical persuasion, never put much stock in the "outlandish criticisms of RPGs":http://en.wikipedia.org/wiki/Dungeons_%26_Dragons_controversies, which at the time were still taken seriously by some.
+
+I began painting scale models/miniatures[1], and playing tabletop war games such as the then relatively new "Warhammer 40,000":http://en.wikipedia.org/wiki/Warhammer_40,000 franchise from a British company called Games Workshop. My father was a veteran of the British Army and he took an active interest in supporting my hobbies especially if they were anything to do with a military theme and if they were somehow British, then all the better! I can remember one day after completing the paint job on an anti-aircraft tank I had been working on for some time my father commented that he was impressed that I could maintain focus for so long. I didn't think much of it at the time, it was normal to me. Only later did I start realising that not everyone had the same patience and attention to detail.
+
+I'm pretty sure I retained more useful fundamental math knowledge from playing pen and paper RPGs and tabletop war games than I did from any part of my schooling to that time. This could possibly have been because no one really told me that an attractive thing about math is that you can use it to model the world and do lots of actually interesting stuff. I figured this out for myself.
+
+I began reading fantasy and sci-fi novels. Initially this grew out of my interest in RPGs, but it was also spurred on by a teacher who implied that such literary works were probably beyond my ability at the age of 8 or 9. Within a few months I had a book shelf filled with novels that I had read. I suppose I should thank my teacher for his lack of faith, as the unintended consequence was that it helped my English studies considerably[2]. I began with the "Dragonlance Saga":http://en.wikipedia.org/wiki/Dragonlance followed by just about every book written by "David Eddings":http://en.wikipedia.org/wiki/David_Eddings, eventually migrating mainly towards more modern and sci-fi writers like "Frank Herbert":http://en.wikipedia.org/wiki/Frank_herbert and "Clive Barker":http://en.wikipedia.org/wiki/Clive_barker.
+
+I spent many an hour playing computer games. Starting with my parents "SX-64":http://en.wikipedia.org/wiki/SX-64, My friend's "Amiga":http://en.wikipedia.org/wiki/Amiga, on to my own "NES":http://en.wikipedia.org/wiki/Nintendo_Entertainment_System (which literally died in a fire, frowny face), my friend's "Mega Drive":http://en.wikipedia.org/wiki/Sega_Genesis, my own "3DO":http://en.wikipedia.org/wiki/3DO_Interactive_Multiplayer, my friend's "Playstation":http://en.wikipedia.org/wiki/Playstation and so on.
+
+By my mid-teens I was interested in music and with the assistance of a few friends, taught myself to play guitar and became a bass player in a local band which played around local clubs and bars for a couple of years.
+
+h3. Um, OK?
+
+So what are the common themes I see through all these activities and what can I extract to perhaps be more generally applicable?
+
+Hours and hours and hours spent on things that are largely if not entirely devoid of passive consumption[3]. Each activity I've listed involved some degree of effort, imagination and creativity. And most activities presented some not insignificant barriers to the novice, i.e. they were not all instantly gratifying.
+
+But it strikes me that many of the activities I've highlighted are not particularly unusual ones to find in the general population of children or adults with geeky tendencies, and yet within this population is still a lot of people who apparently have trouble focussing. There is one activity that I believe is probably less common, both amongst geeks and the wider population: meditation.
+
+I was considering writing up a little intro to meditation, but I was recently reminded that "Xavier Shay has already done one":http://www.two-shay.com/articles/mindful-march and "a follow up":http://www.two-shay.com/articles/mindful-march-recap. So perhaps I can just build on his writings a little.
+
+The illustrated guide to meditation for newbies that Xavier links to looks like a good, straight forward starting point. But I'd also like to talk about another technique that one could use along side what is discussed in the illustrated guide: using a "mantra":http://en.wikipedia.org/wiki/Mantra. Read the previous link if you want a good overview of the rich history of the mantra. But for the purposes of this post, I'll tell you very simply what it is: it's a way to keep my mind occupied while meditating. One of the goals of certain types of meditation is to promote a clear mind, neither projecting into the future nor remembering the past, but rather, existing in the present. To me this basically translates into thinking as little as possible. If you've tried this, you might know that it's far more easily said than done. But repeating a mantra in the forefront of my mind and having this to focus on blocks out other thoughts and on the occasion that a stray thought does manage to float its way in from the periphery, renewing focus on the mantra helps to let that stray thought leave as it had come. In this way, repeating a mantra in my head could be thought of as a kind of mind-hack for minimising thought while meditating. Besides any spiritual or cultural significance a mantra may have, I believe that keeping the mind occupied is a large part of the practical benefit of a mantra and why the practice has stood the test of time. The word or phrase that makes up the mantra - again putting aside any spiritual or cultural significance that a particular mantra might hold for some people - I don't believe to be that important. One could pick the mantra 'purple monkey dishwasher' and I personally feel this could be just as valid as using the more traditional 'Aum' or 'Om mani padme hum' or what have you[4]. Indeed, the Japanese monk "K≈´kai":http://en.wikipedia.org/wiki/K%C5%ABkai said that there is no essential difference between the syllables of mantras and sacred texts, and those of ordinary language. I think that dude was onto something.
+
+Which is a nice segue to talk a little about monks. In support of the efficacy of meditation, Xavier points out some pretty interesting abilities that can be pulled off if one has been practicing meditation for long enough. I might add a rather more confronting example of the incredible control that meditation can bestow, the case of "Th√≠ch Qu·∫£ng ƒê·ª©c, the Vietnamese Buddhist monk":http://en.wikipedia.org/wiki/Thich_Quang_Duc#Self-immolation. Regardless of whether one agrees with the choice that Th√≠ch Qu·∫£ng ƒê·ª©c made, sitting quietly while you burn to death is an amazing feat[5].
+
+If you've ever seen a "Shaolin demonstration":http://www.google.com/search?q=shaolin+monk+demonstration, that's some pretty amazing stuff right there. And although they certainly train physically very hard, not everything they do would be possible without the mental training to match.
+
+The point of mentioning these extremes being that they are evidence that meditation can produce tangible effects and I believe its effects are not only limited to assisting with self-immolation or becoming fluent in the use of those cool floppy swords.
+
+If you're having trouble focussing, maybe you need to find new and interesting challenges, and/or not give up easily, and/or try some meditation.
+
+fn1. Painting with a size 000 brush takes a fair amount of practice, patience and focus, as you'd know if you've tried it. Not to say that I was ever that good at it when compared to "the masters":http://en.wikipedia.org/wiki/Golden_Demon.
+
+fn2. On a slight tangent, I have often felt that as adults we underestimate the intelligence of children considerably. I remember one day I was walking to the shops with my Godfather, I was probably around age 7 or 8. My Godfather asked me if I knew why the human nose is shaped so that the nostrils face downward. I confessed that no, I didn't. My Godfather smiled and said it was because otherwise the rain would get in. I remember slowly smiling and laughing with him. But I also remember that at the time I was secretly disappointed that he didn't impart some detailed and apocryphal evolution-based explanation that might more fully explain the shape of the human nose. To be fair to my Godfather, I'm willing to entertain the possibility that part of the evolutionary purpose of the shape of our noses is to deter the rain from getting in.
+
+fn3. Which is not to say that I never engaged in any passive activities. I watched TV and movies, I love TV and movies. But my parents didn't actually have a TV in our house until I was around age 5.
+
+fn4. I do wonder what difference it might make to use a mantra from a language I am fluent in, the words of which my mind instantly assigns a meaning to, as opposed to a mantra in a language that I do not understand such as Sanskrit, the words of which are just sounds to me. Or at least sounds whose meanings - if I know them - tend to encompass rather sprawling philosophical concepts, as opposed to the more bounded meaning that jumps to mind when I hear the word 'purple', for example. Perhaps from this point of view, using a mantra in a language other than my native tongue might be better for promoting the state of mind I'm aiming for.
+
+fn5. Rather coincidentally to my writing of this post, the subject of self-immolation practiced by Tibetan monks/nuns has taken a more contemporary relevance with the "news of 11 such incidents just this month":http://www.guardian.co.uk/world/2011/nov/10/burning-martyrs-tibetan-monks-fire. All such self-immolations being particularly curious occurrences because Buddhism - unlike the Abrahamic faiths - does not have a strong tradition of martyrdom.
