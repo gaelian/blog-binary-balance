@@ -3,7 +3,7 @@ title: Lucid dreaming
 enki_id: 16
 tags: [sleep, lucid-dreaming]
 ---
-Following on from my ['Getting to sleep']({% post_url 2011-02-11-getting-to-sleep %}) post, now part two of what apparently will be at least a two part series on sleep related topics.
+Following on from my ['Getting to sleep']({% post_url 2011-02-11-getting-to-sleep %}) post, now part two of what apparently will be at least a two part series on sleep related topics.<!--more-->
 
 My introduction to lucid dreaming came at an early age. When I was four or five, I used to have this recurring nightmare. I was in my childhood home, quite a large house built down the side of a slope, it had two stories, plus a lower basement/flat level that was probably about half the floor space of each of the two floors above. So I used to have this dream where I was being chased around the house by a [Wampa](http://en.wikipedia.org/wiki/Wampa) from The Empire Strikes Back[^1]. There was a central wooden staircase that connected all three floors of the house and it was constructed in such a way that there was a fairly large space between each step (or so it seemed to my child sized sense of scale), the kind that can make one slightly wary of climbing if you're unfamiliar with it, something to do with the perspective of seeing through the steps as one climbs them. To this day, I still have a distinct memory of crouching silently on the staircase, a few steps from the top, looking down through the gaps and seeing this giant monster walking past on the level below, looking for me.
 

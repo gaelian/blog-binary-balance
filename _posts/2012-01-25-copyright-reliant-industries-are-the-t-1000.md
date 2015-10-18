@@ -3,7 +3,7 @@ title: Copyright reliant industries are the T-1000
 enki_id: 25
 tags: [copyright, culture, open-web]
 ---
-The information equivalent of a nuclear bomb detonating over the [Shima Hospital](http://en.wikipedia.org/wiki/Shima_Hospital) that is [SOPA](http://en.wikipedia.org/wiki/SOPA) / [PIPA](http://en.wikipedia.org/wiki/PROTECT_IP_Act) last week would seem to have put a rather large question mark over the future of the these proposals ([thanks to Wikipedia](http://en.wikipedia.org/wiki/English_Wikipedia_blackout#Wikimedia_community) et al.).
+The information equivalent of a nuclear bomb detonating over the [Shima Hospital](http://en.wikipedia.org/wiki/Shima_Hospital) that is [SOPA](http://en.wikipedia.org/wiki/SOPA) / [PIPA](http://en.wikipedia.org/wiki/PROTECT_IP_Act) last week would seem to have put a rather large question mark over the future of the these proposals ([thanks to Wikipedia](http://en.wikipedia.org/wiki/English_Wikipedia_blackout#Wikimedia_community) et al.).<!--more-->
 
 Of course, copyright reliant industry's troubled relationship with technology isn't new. Historically, it's been something of a slow-motion rear guard action over the years as technology steadily makes it easier and easier to distribute information. But [previous attempts](http://www.youtube.com/watch?v=up863eQKGUI) to combat the inevitable seem very quaint now that the stakes have been well and truly raised.
 

@@ -3,7 +3,7 @@ title: Postmortem of a side-project
 enki_id: 31
 tags: [filelike, business, bootstrapping]
 ---
-Early July, I sent an email to all users of Filelike (my [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service) application for selling digital files) informing them that as of June 30 2013, I would be discontinuing support and shutting down the site.
+Early July, I sent an email to all users of Filelike (my [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service) application for selling digital files) informing them that as of June 30 2013, I would be discontinuing support and shutting down the site.<!--more-->
 
 I have mixed feelings as I write this post, I developed Filelike in my spare time and it was the first solo project that I have built and launched. For that alone, I was and am quite proud of it. But while it got some traction, the site never made it to financial viability. Simply put: I was investing more into it than I was getting out of it and the bell has now tolled for [Filelike and my much loved squid mascot](http://web.archive.org/web/20130414132713/https://filelike.com/).
 

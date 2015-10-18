@@ -3,7 +3,7 @@ title: The pantheon of initials
 enki_id: 9
 tags: [identity]
 ---
-I've always found it interesting and kind of cool how in the programming world, one of the ways you can tell you've made an impact is if people refer to you by your initials and everyone else knows who they mean. [RMS](http://en.wikipedia.org/wiki/Richard_Stallman), [JWZ](http://en.wikipedia.org/wiki/Jwz), [DHH](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) and [PG](http://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29) are the four that I can think of off the top of my head and I'm sure there are more.
+I've always found it interesting and kind of cool how in the programming world, one of the ways you can tell you've made an impact is if people refer to you by your initials and everyone else knows who they mean. [RMS](http://en.wikipedia.org/wiki/Richard_Stallman), [JWZ](http://en.wikipedia.org/wiki/Jwz), [DHH](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) and [PG](http://en.wikipedia.org/wiki/Paul_Graham_%28computer_programmer%29) are the four that I can think of off the top of my head and I'm sure there are more.<!--more-->
 
 It seems like this practice is not surprisingly more common with people who have long names. It also seems that more of the older guys seem to have ended up with the initials moniker. The practice no doubt mostly stems from the limitations of the medium through which these people and those that talk to or about them direct much of their communication: text. Usernames, email, instant message, blogging, Internet forums etc, etc. I guess it comes down to 'the less keystrokes the better'. Programmers are nothing if not a generally logical and practical bunch.
 

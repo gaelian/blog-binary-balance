@@ -3,7 +3,7 @@ title: Internet anemia in Australia
 enki_id: 28
 tags: [mobile, social-media, twitter]
 ---
-In March this year, I finally jumped on the tablet bandwagon and got myself the new iPad, the Wi-Fi + 4G model. I purchased the iPad outright mainly so that I would have maximum flexibility in choosing a data plan to go with it. So not long after, I began researching mobile data plans and was pretty appalled by what I found.
+In March this year, I finally jumped on the tablet bandwagon and got myself the new iPad, the Wi-Fi + 4G model. I purchased the iPad outright mainly so that I would have maximum flexibility in choosing a data plan to go with it. So not long after, I began researching mobile data plans and was pretty appalled by what I found.<!--more-->
 
 Now I was already aware before making my purchase that the new iPad's 4G capability wasn't compatible with Australia's 4G network provided by Telstra, this sucks but I wasn't too upset. I had initially thought I would likely go with one of these pre-paid options I'd heard of, I was looking for something around the $30/month mark at most, as I have Wi-Fi at home and just needed something to get me by when I'm out and about. On the face of it, a pre-paid, no lock-in kind of deal sounded pretty appealing, but that was until I started reading the fine print that seems to come standard with pre-paid mobile data plans in Australia.
 

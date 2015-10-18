@@ -3,7 +3,7 @@ title: Getting to sleep
 enki_id: 15
 tags: [sleep, meditation]
 ---
-Sometimes I can't get to sleep, or perhaps more accurately I can't get to sleep as quickly as I'd like. I'll be thinking about some project I'm working on or what I need to do the next day. It doesn't help that I'm pretty sure I'm more nocturnal by nature. I suspect that if the schedule of the world didn't impose on me, I'd likely keep the circadian rhythm of a vampire.
+Sometimes I can't get to sleep, or perhaps more accurately I can't get to sleep as quickly as I'd like. I'll be thinking about some project I'm working on or what I need to do the next day. It doesn't help that I'm pretty sure I'm more nocturnal by nature. I suspect that if the schedule of the world didn't impose on me, I'd likely keep the circadian rhythm of a vampire.<!--more-->
 
 I've heard of many possible approaches to victory over insomnia: nightcaps, reading, TV, exercise, etc. All of these options have – at different times – had some positive effect for me. Particularly helpful is simply making sure that I've consciously relaxed my body from head to toe, I find that I often retain tension in my neck or shoulders without really realising it. But in this post, I want to talk about a more specific technique, perhaps a form of meditation, that's floated around in my head for a while now.
 

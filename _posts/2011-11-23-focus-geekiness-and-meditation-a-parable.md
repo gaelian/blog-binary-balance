@@ -5,7 +5,7 @@ tags: [focus, meditation, philosophy]
 ---
 I was recently reading a blog post entitled '[How to work from home without going insane (purple monkey dishwasher)](http://blog.davidtate.org/2011/09/how-to-work-from-home-without-going-insane-purple-monkey-dishwasher/)' by David Tate.
 
-The post has a lot of good advice and observations in it, relevant to my interests because working from home is something I aspire to be doing more of.
+The post has a lot of good advice and observations in it, relevant to my interests because working from home is something I aspire to be doing more of.<!--more-->
 
 In the section on interruptions, where – referring to adjusting from the more typical office environment to working from home – David writes:
 

@@ -3,7 +3,7 @@ title: 'New gem: self-notifo'
 enki_id: 5
 tags: [ruby, rails, notifo, gems]
 ---
-I've never created a Ruby gem before, although I use other people's gems a lot. So I decided recently that I might have a go at making one myself. I needed to find something nice and small to start off with.
+I've never created a Ruby gem before, although I use other people's gems a lot. So I decided recently that I might have a go at making one myself. I needed to find something nice and small to start off with.<!--more-->
 
 ### Some background
 

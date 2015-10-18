@@ -3,7 +3,7 @@ title: My letter in support of the National Broadband Network
 enki_id: 33
 tags: [bureaucracy, ecommerce, gov-2.0, nbn]
 ---
-I've just posted a snail mail letter to our Liberal representative in the Senate, Mr Zed Seselja (Senator for Australian Capital Territory). If you have an interest in securing Australia's future in the digital economy and ensuring that Australia gets the National Broadband Network (NBN) it deserves, then I encourage you to make your voice heard now in any and all ways possible.
+I've just posted a snail mail letter to our Liberal representative in the Senate, Mr Zed Seselja (Senator for Australian Capital Territory). If you have an interest in securing Australia's future in the digital economy and ensuring that Australia gets the National Broadband Network (NBN) it deserves, then I encourage you to make your voice heard now in any and all ways possible.<!--more-->
 
 I feel that snail mail – as quaint as I personally find it to be – is a good way to ensure that your representatives know how strongly you feel on an issue. You didn't just send a quick email or tweet or wall post (though we should certainly do these as well), you actually took the time to write a letter, print it out, sign it, put it in an envelope, stick on a stamp, write the address on the envelope and drop it in a mailbox. It still may be a small gesture in the scheme of things, but I will at least know that in every reasonable way that is open to me, I've taken the time to make my views known to those that are supposed to be representing us.
 

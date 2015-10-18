@@ -3,7 +3,7 @@ title: Policy is for when you don't trust your staff anymore
 enki_id: 12
 tags: [bureaucracy, google, ruby, culture]
 ---
-I watched the video of [David Heinemeier Hansson's keynote address from RubyCon 2010](http://37signals.com/svn/posts/2679-my-keynote-from-rubyconf-about-why-i-continue) the other day. It was unapologetically pro-Ruby, and delivered with the flair and showmanship that has made DHH and 37Signals the polarising force that they are. Being quite fond of Ruby, I found myself nodding along to most of what David had to say. But I don't wish to add even a small amount of new fuel to the programming language wars that seem to go on endlessly around the place. The purpose of this post is not to join in on any Ruby circle-jerking.
+I watched the video of [David Heinemeier Hansson's keynote address from RubyCon 2010](http://37signals.com/svn/posts/2679-my-keynote-from-rubyconf-about-why-i-continue) the other day. It was unapologetically pro-Ruby, and delivered with the flair and showmanship that has made DHH and 37Signals the polarising force that they are. Being quite fond of Ruby, I found myself nodding along to most of what David had to say. But I don't wish to add even a small amount of new fuel to the programming language wars that seem to go on endlessly around the place. The purpose of this post is not to join in on any Ruby circle-jerking.<!--more-->
 
 One of the things that particularly stood out to me in DHH's keynote was a quote from [Larry Wall](http://en.wikipedia.org/wiki/Larry_Wall), creator of the Perl programming language:
 

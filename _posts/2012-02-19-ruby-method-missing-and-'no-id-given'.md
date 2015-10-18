@@ -5,7 +5,7 @@ tags: [ruby, rails, metaprogramming]
 ---
 **Note**: if you just happen to be interested in knowing possible causes for the 'no id given' error message in [Ruby](http://en.wikipedia.org/wiki/Ruby_(programming_language)), go to the last paragraph of this post.
 
-I don't have reason to do a lot of Ruby metaprogramming myself, although being a Rails user, I surely receive a lot of benefit from it. Metaprgramming is used extensively in Rails, the most visible example I can think of is the [ActiveRecord Dynamic Finders](http://guides.rubyonrails.org/active_record_querying.html#dynamic-finders).
+I don't have reason to do a lot of Ruby metaprogramming myself, although being a Rails user, I surely receive a lot of benefit from it. Metaprgramming is used extensively in Rails, the most visible example I can think of is the [ActiveRecord Dynamic Finders](http://guides.rubyonrails.org/active_record_querying.html#dynamic-finders).<!--more-->
 
 Working on my current pet project, I had occasion to do a little metaprogramming in a similar vein to the ActiveRecord Dynamic Finders. I have a model with two sets of [paperclip](https://github.com/thoughtbot/paperclip/) attachments. One is for when an attachment is first uploaded to my server and the other is for when the attachment is subsequently moved to [Amazon S3](http://aws.amazon.com/s3/) for permanent storage. The file stored on my server is deleted after successful transfer to Amazon S3.
 

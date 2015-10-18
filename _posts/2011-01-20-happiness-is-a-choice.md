@@ -3,7 +3,7 @@ title: Happiness is a choice
 enki_id: 14
 tags: [happiness, philosophy]
 ---
-On more than one occasion, I've heard people say that happiness is a choice. It's easy to dismiss this phrase as a platitude, to lose it amongst other phrases with a similar resonance like 'Whether you think you can or you think you can't, you're right', 'Life is what you make it' etc. But in this post, I'm going to talk a little about what the phrase means to me.
+On more than one occasion, I've heard people say that happiness is a choice. It's easy to dismiss this phrase as a platitude, to lose it amongst other phrases with a similar resonance like 'Whether you think you can or you think you can't, you're right', 'Life is what you make it' etc. But in this post, I'm going to talk a little about what the phrase means to me.<!--more-->
 
 So what is happiness anyway? Better philosophers than I have spent more words than I plan to use in this post trying to figure out a generally applicable answer to this ostensibly simple question. I don't think I could do the question justice here were I to seriously try and give a comprehensive answer. But I will try and define what I think it is for me. I might start with what I think it's not.
 

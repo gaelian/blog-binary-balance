@@ -3,7 +3,7 @@ title: Online audience engagement and the enterprise
 enki_id: 17
 tags: [culture, facebook, twitter, bureaucracy, gov-2.0, social-media]
 ---
-It seems that [social media](http://en.wikipedia.org/wiki/Social_media) is everywhere today. Live tweet our show using the hash tag '#WhyJustWatchWhenYouCanCriticise'! There's other websites as well as Facebook? But how do do your friends know about your inane comments on those ones?! One could be forgiven for thinking the read/write web is getting old hat these days. [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0), how unfashionable an epithet for use by today's modern web hipster.The read/write web has long past the point of a fad and has been recognised for what it is: an evolutionary step in a still relatively young communication medium: the network of networks known as the Internet[^1].
+It seems that [social media](http://en.wikipedia.org/wiki/Social_media) is everywhere today. Live tweet our show using the hash tag '#WhyJustWatchWhenYouCanCriticise'! There's other websites as well as Facebook? But how do do your friends know about your inane comments on those ones?! One could be forgiven for thinking the read/write web is getting old hat these days.<!--more--> [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0), how unfashionable an epithet for use by today's modern web hipster.The read/write web has long past the point of a fad and has been recognised for what it is: an evolutionary step in a still relatively young communication medium: the network of networks known as the Internet[^1].
 
 ### Engagement marketing and commercial enterprise
 

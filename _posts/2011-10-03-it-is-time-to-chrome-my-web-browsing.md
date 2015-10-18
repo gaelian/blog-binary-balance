@@ -3,7 +3,7 @@ title: It is time to Chrome my web browsing
 enki_id: 21
 tags: [google, firefox, chrome, browsers, javascript]
 ---
-Late last year, I wrote a post entitled ['Is it time to chrome my web browsing?']({% post_url 2010-12-01-is-it-time-to-chrome-my-web-browsing %}) wherein I took a look at how [Chrome](http://www.google.com/chrome) stacked up in comparison to [Firefox](http://www.mozilla.org/firefox/), specifically in relation to the Firefox Add-ons that I used and could not do without. At that time, I decided that - for me - the day was not yet ripe for a move.
+Late last year, I wrote a post entitled ['Is it time to chrome my web browsing?']({% post_url 2010-12-01-is-it-time-to-chrome-my-web-browsing %}) wherein I took a look at how [Chrome](http://www.google.com/chrome) stacked up in comparison to [Firefox](http://www.mozilla.org/firefox/), specifically in relation to the Firefox Add-ons that I used and could not do without. At that time, I decided that - for me - the day was not yet ripe for a move.<!--more-->
 
 Fast forward to ten months later and the situation has changed. For the last four months or so, I've been trialling Chrome as my default web browser for both day-to-day browsing and development. Enough time has passed now that I can say with some certainty that I won't be going back. And it seems that I am not alone as [Chrome is set to overtake Firefox](http://www.computerworld.com/s/article/9220396/Chrome_poised_to_take_No._2_browser_spot_from_Firefox) as the second most popular browser before the end of this year.
 

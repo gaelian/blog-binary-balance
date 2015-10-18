@@ -3,7 +3,7 @@ title: Compiling Nginx with Phusion Passenger on Debian Lenny
 enki_id: 3
 tags: [debian, rails, ruby, phusion-passenger]
 ---
-After [compiling Ruby 1.9.2 on my Debian Lenny web server]({% post_url 2010-08-28-compiling-ruby-1-9-2-on-debian-lenny %}), the next thing I wanted to do was get an actual web server going for serving up Rails apps. I've been an Apache user for a long time but I'd been hearing about [Nginx](http://nginx.org/) and how it's kicking ass and taking names, so I thought I might give it a go. I also needed some way to hook Rails up with Nginx.
+After [compiling Ruby 1.9.2 on my Debian Lenny web server]({% post_url 2010-08-28-compiling-ruby-1-9-2-on-debian-lenny %}), the next thing I wanted to do was get an actual web server going for serving up Rails apps. I've been an Apache user for a long time but I'd been hearing about [Nginx](http://nginx.org/) and how it's kicking ass and taking names, so I thought I might give it a go. I also needed some way to hook Rails up with Nginx.<!--more-->
 
 Back in the day, it could be a real pain in the ass to deploy Rails apps. There was [mod_ruby](http://www.modruby.net/en/) for Apache which tried to be for Ruby what mod_php is for PHP. But it had issues when trying to run multiple applications and the project seems pretty dead.
 

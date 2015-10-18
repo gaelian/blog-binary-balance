@@ -1,3 +1,7 @@
+name: Binary Balance
+description: Life on the digital knife edge
+url: http://blog.binarybalance.com.au
+author: Gaelian Ditchburn
 defaults:
   -
     scope:
@@ -18,5 +22,9 @@ redcarpet:
   extensions: ["footnotes", "hard_wrap", "no_intra_emphasis", "autolink", "strikethrough"]
 permalink: /:year/:month/:day/:title
 exclude: ["gaelian.github.io.sublime-project", "Gemfile", "Gemfile.lock", "README.md"]
+excerpt_separator: <!--more-->
+feed:
+  path: posts.atom
 gems:
   - jekyll-redirect-from
+  - jekyll-feed

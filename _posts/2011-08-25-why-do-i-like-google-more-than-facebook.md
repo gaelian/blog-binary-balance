@@ -3,7 +3,7 @@ title: Why do I like Google more than Facebook?
 enki_id: 20
 tags: [google, facebook, open-web]
 ---
-For what amounts to a long time in the short history of the Internet, Google has been a synonym for large scale. I vaguely remember a quote from a Google employee who – when talking about their work and just how early they need to start thinking about scaling a system up – said something like 'One day you get something kind of working and the next day you have 5000 users'[^1]. There's not many places where a developer is forced to deal with scaling issues basically from the very beginning of a project. Google developers must scoff at warnings about [premature optimisation](http://c2.com/cgi/wiki?PrematureOptimization).
+For what amounts to a long time in the short history of the Internet, Google has been a synonym for large scale. I vaguely remember a quote from a Google employee who – when talking about their work and just how early they need to start thinking about scaling a system up – said something like 'One day you get something kind of working and the next day you have 5000 users'[^1]. There's not many places where a developer is forced to deal with scaling issues basically from the very beginning of a project. Google developers must scoff at warnings about [premature optimisation](http://c2.com/cgi/wiki?PrematureOptimization).<!--more-->
 
 The amount of data that Google stores for people and about people is impressive, mindboggling, constantly growing and more than a little scary. The launch of [Google+](http://en.wikipedia.org/wiki/Google%2B) adds a new dimension that depending on your perspective, could exponentially add to the scariness factor of the information Google is keeping on us.
 

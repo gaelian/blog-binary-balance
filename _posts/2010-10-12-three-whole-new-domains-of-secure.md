@@ -3,7 +3,7 @@ title: Three whole new domains of secure
 enki_id: 7
 tags: [ecommerce, fail]
 ---
-Last week my partner asked me to buy her some printer ink cartridges at a particular online store that sells such things so armed with her Visa card I undertook the quest.
+Last week my partner asked me to buy her some printer ink cartridges at a particular online store that sells such things so armed with her Visa card I undertook the quest.<!--more-->
 
 I found the desired ink cartridges and proceeded to check out. I arrive at a page that tells me it has been detected that I am a part of the ‚'Verified by Visa' program and that I will be sent to a page to facilitate said verification by Visa. I'm redirected to a page that by the URL and branding I assume is owned by the bank that provides the merchant facilities for the ink cartridge website. This page partially loads but then dies because my [NoScript Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/722/) disallows the JavaScript on the page. I'm left looking at a button that says something like 'Click to enter your password' but due to JavaScript being disabled, it does nothing when you click on it and even if it did, I would not know what password to enter. I do some Googling on Verified by Visa and how it might relate to our particular bank, but find very little other than pages filled with sales-speak on how Verified by Visa makes things lots more secure.
 

@@ -3,7 +3,7 @@ title: How I've started to contribute to open source
 enki_id: 19
 tags: [open-source, ruby, rails, development, gems]
 ---
-A couple of weeks ago, I read a post by Brandon Hays called '“Why I still don't contribute to open source”:http://brandonhays.com/blog/2011/05/03/why-i-still-dont-contribute-to-open-source/' wherein Brandon lays out his reasons for not yet having contributed to any [OSS](http://en.wikipedia.org/wiki/Open-source_software) projects. To reiterate Brandon's points:
+A couple of weeks ago, I read a post by Brandon Hays called '“Why I still don't contribute to open source”:http://brandonhays.com/blog/2011/05/03/why-i-still-dont-contribute-to-open-source/' wherein Brandon lays out his reasons for not yet having contributed to any [OSS](http://en.wikipedia.org/wiki/Open-source_software) projects.<!--more--> To reiterate Brandon's points:
 
 1. There's no certification, ceremony, or merit badge that says, 'you're ready to contribute to OSS'.
 2. It's not obvious where to start.

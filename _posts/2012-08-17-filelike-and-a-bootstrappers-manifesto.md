@@ -3,7 +3,7 @@ title: Filelike and a bootstrapper's manifesto
 enki_id: 30
 tags: [filelike, business, bootstrapping]
 ---
-Not so long ago, I was talking to a family member who was interested in ways that they could sell an electronic version of a book they'd written and this got me thinking about selling electronic files online.
+Not so long ago, I was talking to a family member who was interested in ways that they could sell an electronic version of a book they'd written and this got me thinking about selling electronic files online.<!--more-->
 
 Of course there is a huge number of options for selling files online, but most work off a model that places the online store as the central focus. Come to the online store, buy a file and leave. I had a different interest: with the plethora of ways that even non-technical people can create a 'website' of some kind for themselves these days (hosted blogs, Twitter, a Facebook wall, etc.) what about a site that just provides a facility to upload a file and then gives back a URL that can be used however and wherever one sees fit? I named my idea [Filelike](https://filelike.com) and with this post, I consider it officially launched.
 

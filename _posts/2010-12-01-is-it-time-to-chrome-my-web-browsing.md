@@ -3,7 +3,7 @@ title: Is it time to chrome my web browsing?
 enki_id: 11
 tags: [ruby, rails, google, firefox, chrome, browsers, javascript]
 ---
-I remember when I first heard of Google's new browser, dubbed [Chrome](http://www.google.com/chrome). I was sitting at my desk at work, reading the news and for a moment I thought I could almost hear the wailing and gnashing of teeth emanating from clear across the other side of the world at Redmond.
+I remember when I first heard of Google's new browser, dubbed [Chrome](http://www.google.com/chrome). I was sitting at my desk at work, reading the news and for a moment I thought I could almost hear the wailing and gnashing of teeth emanating from clear across the other side of the world at Redmond.<!--more-->
 
 There were some obvious wins for Chrome right out of the gate. Independent processes for tabs meant that if a page crashed it wouldn't take down the whole browser with it. Security was also enhanced with this model of tab isolation, if I remember correctly. There was the [V8 JavaScript engine](http://en.wikipedia.org/wiki/V8_%28JavaScript_engine%29), tests by Google in September 2008 showed that JavaScript execution in Chrome was about three times faster than [Firefox](http://www.mozilla-europe.org/en/firefox/) 3.0 and about ten times faster than Internet Explorer 7. There was some debate over the real world applicability of these results, but little doubt that Chrome was kicking ass at JavaScript. A modern browser made to support the quickly burgeoning age of JavaScript heavy web applications.
 

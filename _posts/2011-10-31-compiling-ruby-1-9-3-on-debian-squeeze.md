@@ -3,7 +3,7 @@ title: Compiling Ruby 1.9.3 on Debian Squeeze
 enki_id: 23
 tags: [ruby, debian, rvm]
 ---
-There's not a huge amount of Debian specific Ruby/Rails tutorials on the web. I've written a few in the past and with the release of Debian Squeeze and the recent [official release of Ruby 1.9.3](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40527) I thought it might be time to do another one.
+There's not a huge amount of Debian specific Ruby/Rails tutorials on the web. I've written a few in the past and with the release of Debian Squeeze and the recent [official release of Ruby 1.9.3](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40527) I thought it might be time to do another one.<!--more-->
 
 [Ruby 1.9.2 is already available in the Debian Squeeze repositories](http://packages.debian.org/squeeze/ruby1.9.1), so if you're happy with just using what's already easily available you can of course just install the ruby1.9.1 (or [ruby1.9.1-full](http://packages.debian.org/squeeze/ruby1.9.1-full)) package and be done with it. Somewhat confusingly these packages are named with the version number 1.9.1, but this is apparently to indicate compatibility. Installing either package will give you Ruby 1.9.2.
 

@@ -3,7 +3,7 @@ title: Cargo cult web development
 enki_id: 6
 tags: [lamp, php, fail]
 ---
-Not too long ago, I was brought in on a failing website development project. The client had commissioned a website from one of their local web design/development companies, that company had sub-contracted the development of the site out and the web developer in question had skipped the country without finishing the project, never to be heard from again. The client was understandably perturbed by this and had lost faith in the company that they originally hired to do the work.
+Not too long ago, I was brought in on a failing website development project. The client had commissioned a website from one of their local web design/development companies, that company had sub-contracted the development of the site out and the web developer in question had skipped the country without finishing the project, never to be heard from again. The client was understandably perturbed by this and had lost faith in the company that they originally hired to do the work.<!--more-->
 
 There is a saying that will be familiar to many developers: 'Hell is other people's code' and I have found this saying to be quite accurate much of the time. So I'm often reluctant to come in at the end of a project that's ostensibly at the FUBAR stage. But this time, circumstances were such I decided to see if I could pitch in and sort things out.
 

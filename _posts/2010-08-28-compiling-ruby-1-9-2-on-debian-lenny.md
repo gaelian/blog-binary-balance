@@ -3,7 +3,7 @@ title: Compiling Ruby 1.9.2 on Debian Lenny
 enki_id: 2
 tags: [ruby, debian]
 ---
-I've just recently been setting up my Debian Lenny web server to run Rails apps. So I thought I might document some of what I did for posterity and as a way to give back a little in return for all those blog posts and general instructional texts found on the Internet that have helped me over the years.
+I've just recently been setting up my Debian Lenny web server to run Rails apps. So I thought I might document some of what I did for posterity and as a way to give back a little in return for all those blog posts and general instructional texts found on the Internet that have helped me over the years.<!--more-->
 
 [Ruby 1.9.0 is already available in the Debian Lenny repositories](http://packages.debian.org/lenny/ruby1.9), so if you're happy with this version you can of course just install the ruby1.9 package and be done with it. You could also check what backports are available and stuff. But I can't leave well enough alone though so if you're like me, read on.
 

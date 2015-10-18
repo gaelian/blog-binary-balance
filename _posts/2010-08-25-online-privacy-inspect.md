@@ -5,7 +5,7 @@ tags: [privacy, twitter, facebook, google, anonymous]
 ---
 I've been working in the web industry for about a decade now. My first job was customer facing technical support for an ISP, but I soon moved towards web design and development.
 
-Throughout my life and career, I've never kept a blog (until now). I almost exclusively posted on forums, mailing lists, chatted on IRC etc. under a pseudonym. I stopped really even thinking about it, it became just the way I rolled.
+Throughout my life and career, I've never kept a blog (until now). I almost exclusively posted on forums, mailing lists, chatted on IRC etc. under a pseudonym. I stopped really even thinking about it, it became just the way I rolled.<!--more-->
 
 I only created a Facebook account in late 2007 mainly to see what all the fuss was about and to appease a friend who wanted to initiate me into the [Transformers Archive](http://www.facebook.com/apps/application.php?id=13066336846). I got onto Twitter in early 2009. I suspect that I created a LinkedIn account only last year also. So what's the reason for this impressively late uptake of some of the most popular online social networking sites, especially for a person who works with the web every day?
 

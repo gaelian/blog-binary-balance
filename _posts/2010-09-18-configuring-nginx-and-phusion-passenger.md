@@ -5,7 +5,7 @@ tags: [debian, rails, ruby, phusion-passenger]
 ---
 [Continuing on from my previous post on compiling Nginx with Phusion Passenger]({% post_url 2010-09-10-compiling-nginx-and-phusion-passenger-on-debian-lenny %}), some configuration is now in order.
 
-To give credit where due, I'd like to mention that I found much help on the [Slicehost articles and tutorials site](http://articles.slicehost.com/) and adapted some of their instructions for parts of this post. Thanks Slicehost!
+To give credit where due, I'd like to mention that I found much help on the [Slicehost articles and tutorials site](http://articles.slicehost.com/) and adapted some of their instructions for parts of this post. Thanks Slicehost!<!--more-->
 
 I'm using the root account, so there'll be no 'sudo' command used herein. Adjust your commands accordingly if you don't do things this way.
 
