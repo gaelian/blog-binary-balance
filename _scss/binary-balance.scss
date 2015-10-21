@@ -9,7 +9,7 @@ $anchor-border-green: #c9d7c2;
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #555;
+  color: $light-black;
 }
 
 .blog-masthead {
@@ -35,42 +35,42 @@ body {
 
 .blog-header {
   img {
-    float:left;
-    margin:29px 15px 0 0;
+    float: left;
+    margin: 26px 15px 0 0;
   }
 
   p.blog-description {
-    margin-left:123px;
+    margin-left: 123px;
   }
 }
 
 h2.blog-post-title {
   > a {
-    color:$dark-black;
+    color: $dark-black;
     &:hover {
-        color:$dark-black;
+        color: $dark-black;
     }
   }
 }
 
 .blog-main, .tags {
   a {
-    color:$anchor-green;
+    color: $anchor-green;
     &:hover {
-        color:$anchor-green;
+        color: $anchor-green;
     }
   }
 }
 
 .blog-post-meta, .tags {
   > a {
-      background-color:$anchor-background-green;
-      border:1px solid $anchor-border-green;
-      padding:1px 3px 1px 3px;
+      background-color: $anchor-background-green;
+      border: 1px solid $anchor-border-green;
+      padding: 1px 3px 1px 3px;
   }
 }
 
 .tags > a {
-  margin:0 3px 0 3px;
+  margin: 0 3px 0 3px;
   line-height: 200%;
 }
