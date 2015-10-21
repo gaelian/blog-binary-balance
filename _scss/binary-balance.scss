@@ -3,18 +3,24 @@ $light-black: #555;
 $dark-green: #3a4d1f;
 $light-green: #4c7b32;
 $anchor-green: #5e8846;
-$anchor-background-green: #dbe5d6;
-$anchor-border-green: #c9d7c2;
+$background-green: #dbe5d6;
+$border-green: #c9d7c2;
 
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $light-black;
+  a {
+    color: $anchor-green;
+    &:hover {
+        color: $anchor-green;
+    }
+  }
 }
 
 .blog-masthead {
   /* fallback */
-  background-color: #4c7b32;
+  background-color: $light-green;
   background-repeat: repeat-x;
 
   /* Safari 4-5, Chrome 1-9 */
@@ -33,15 +39,31 @@ body {
   background: -o-linear-gradient(top, $dark-green, $light-green);
 }
 
-.blog-header {
-  img {
-    float: left;
-    margin: 26px 15px 0 0;
+@media all and (max-width: 553px) {
+  .blog-header {
+    text-align: center;
+    img {
+      display: block;
+      margin: 0 auto;
+    }
   }
+}
 
-  p.blog-description {
-    margin-left: 123px;
+@media all and (min-width: 554px) {
+  .blog-header {
+    img {
+      float: left;
+      margin: 26px 15px 0 0;
+    }
+
+    p.blog-description {
+      margin-left: 123px;
+    }
   }
+}
+
+@media all and (min-width: 553px) and (-webkit-min-device-pixel-ratio: 2)  {
+  /* Set up high res logo image */
 }
 
 h2.blog-post-title {
@@ -53,24 +75,27 @@ h2.blog-post-title {
   }
 }
 
-.blog-main, .tags {
-  a {
-    color: $anchor-green;
-    &:hover {
-        color: $anchor-green;
-    }
+.blog-post-meta, .tags {
+  > a {
+      background-color: $background-green;
+      border: 1px solid $border-green;
+      padding: 1px 3px 1px 3px;
   }
 }
 
-.blog-post-meta, .tags {
-  > a {
-      background-color: $anchor-background-green;
-      border: 1px solid $anchor-border-green;
-      padding: 1px 3px 1px 3px;
-  }
+#archives {
+  background-color: $background-green;
+  border: 1px solid $border-green;
+  text-align: center;
+  margin:0 0 20px 0;
+  padding: 2px;
 }
 
 .tags > a {
   margin: 0 3px 0 3px;
   line-height: 200%;
+}
+
+.blog-footer {
+  border-top: 1px solid $light-green;
 }
