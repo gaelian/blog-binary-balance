@@ -61,13 +61,15 @@
           </div><!-- /.blog-main -->
 
           <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-            <div class="sidebar-module sidebar-module-inset">
-              <h4>Hey there!</h4>
-              <p>
-                My name is Gaelian Ditchburn and you're reading my blog. Check out my '<a href="/about">About</a>'
-                page if you're looking for more info and enjoy your stay.
-              </p>
-            </div>
+            {% unless page.title == 'About' %}
+              <div class="sidebar-module sidebar-module-inset">
+                <h4>Hey there!</h4>
+                <p>
+                  My name is Gaelian Ditchburn and you're reading my blog. Check out my '<a href="/about">About</a>'
+                  page if you're looking for more info and enjoy your stay.
+                </p>
+              </div>
+            {% endunless %}
             <div class="sidebar-module">
             <a href="http://internetdefenseleague.org">
               <img id="shield-badge" src="/images/shield_badge.png"
