@@ -5,7 +5,11 @@ $light-green: #4c7b32;
 $anchor-green: #5e8846;
 $background-green: #dbe5d6;
 $border-green: #c9d7c2;
+$footer-height: 155;
 
+html, body {
+  height: 100%;
+}
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -16,6 +20,11 @@ body {
         color: $anchor-green;
     }
   }
+}
+
+.wrapper {
+  min-height: 100%;
+  margin: 0 auto -#{$footer-height}px; /* the bottom margin is the negative value of the footer's height */
 }
 
 .blog-masthead {
@@ -100,6 +109,19 @@ h2.blog-post-title {
   border: 1px solid $border-green;
 }
 
+.social {
+  a {
+    text-decoration: none;
+  }
+  img {
+    margin-right: 14px;
+  }
+}
+
 .blog-footer {
   border-top: 1px solid $light-green;
+}
+
+.blog-footer, .push {
+  height: #{$footer-height}px;
 }
