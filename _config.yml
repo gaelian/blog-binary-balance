@@ -1,7 +1,9 @@
 name: Binary Balance
 description: Life on the digital knife edge
 url: http://blog.binarybalance.com.au
-author: Gaelian Ditchburn
+author:
+  name: Gaelian Ditchburn
+
 defaults:
   -
     scope:
