@@ -92,7 +92,7 @@ h2.blog-post-title {
   }
 }
 
-#archives {
+#callout {
   background-color: $background-green;
   border: 1px solid $border-green;
   text-align: center;
@@ -109,7 +109,7 @@ h2.blog-post-title {
   border: 1px solid $border-green;
 }
 
-.social {
+.icons {
   a {
     text-decoration: none;
   }
@@ -124,4 +124,17 @@ h2.blog-post-title {
 
 .blog-footer, .push {
   height: #{$footer-height}px;
+}
+
+.social-media-list {
+  padding: 0;
+  list-style-type: none;
+  height:30px;
+  li {
+    float: left;
+    width: 33.3%;
+  }
+  li.facebook {
+    margin-top: -7px;
+  }
 }

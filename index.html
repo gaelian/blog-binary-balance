@@ -15,5 +15,16 @@ title: Home
       <a href="/tags#{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
   </p>
+  <ul class="social-media-list">
+      <li class="facebook">
+        <div class="fb-like" data-href="{{ site.url }}{{ post.url }}" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+      </li>
+      <li>
+        <a class="twitter-share-button" href="https://twitter.com/share" data-url="{{ site.url }}{{ post.url }}" data-via="gaelian">Tweet</a>
+      </li>
+      <li>
+        <div class="g-plusone" data-href="{{ site.url }}{{ post.url }}" data-size="medium"></div>
+      </li>
+  </ul>
 </div><!-- /.blog-post -->
 {% endfor %}
