@@ -17,7 +17,10 @@ body {
   a {
     color: $anchor-green;
     &:hover {
-        color: $anchor-green;
+      color: $anchor-green;
+    }
+    &:active {
+      color: $anchor-green;
     }
   }
 }
@@ -75,6 +78,12 @@ body {
   /* Set up high res logo image */
 }
 
+.blog-post {
+  p > a {
+    text-decoration: underline;
+  }
+}
+
 h2.blog-post-title {
   > a {
     color: $dark-black;
@@ -107,6 +116,9 @@ h2.blog-post-title {
 
 .sidebar-module-inset {
   border: 1px solid $border-green;
+  a {
+    text-decoration: underline;
+  }
 }
 
 .icons {

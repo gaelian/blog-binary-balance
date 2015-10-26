@@ -1,12 +1,12 @@
 <div class="blog-post">
   <h2 class="blog-post-title">{{ page.title }}</h2>
   {{ content | remove: '&lt;!--more--&gt;' }}
-  <p class="blog-post-meta">
+  <div class="blog-post-meta">
     {{ page.date | date: '%B %d, %Y' }} -
     {% for tag in page.tags %}
       <a href="tags/#{{ tag }}">{{ tag }}</a>
     {% endfor %}
-  </p>
+  </div>
   <div id="callout">
     Got a question or comment? <a href="https://twitter.com/intent/tweet?screen_name=gaelian" data-related="gaelian">Hit me up on Twitter</a>
   </div>
