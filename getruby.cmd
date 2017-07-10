@@ -50,7 +50,6 @@ cd
 call gem install bundler
 
 ECHO Bundler install (not update!)
-ECHO %PATH%
 call bundle install
 
 cd %DEPLOYMENT_SOURCE%
