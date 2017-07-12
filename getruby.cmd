@@ -14,7 +14,7 @@ if exist ruby-2.3.3-x64-mingw32 goto end
 
 echo No Ruby, need to get it!
 
-REM Get Ruby and Rails
+REM Get Ruby
 REM 64bit
 curl -o ruby233.zip -L https://bintray.com/artifact/download/oneclick/rubyinstaller/ruby-2.3.3-x64-mingw32.7z?direct
 REM Azure puts 7zip here!
