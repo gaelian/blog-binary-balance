@@ -16,7 +16,7 @@ Looking at my Firefox add-ons currently, I've got:
 - 1Password extension for Firefox
 - Adblock Plus
 - All-in-One Gestures
-- Backpage Pages
+- Backpack Pages
 - Change
 - ColorZilla
 - Dictionary Search
