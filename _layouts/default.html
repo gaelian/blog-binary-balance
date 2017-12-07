@@ -72,11 +72,13 @@
                 </p>
               </div>
             {% endunless %}
-            <div class="sidebar-module">
-            <a href="https://internetdefenseleague.org">
-              <img width="212" height="207" src="https://internetdefenseleague.org/images/badges/final/shield_badge.png"
-              alt="Member of The Internet Defense League">
-            </a>
+            <div class="sidebar-module sidebar-badges">
+              <!-- Acclaim badge div. -->
+              <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2776f076-d174-408c-a977-099c33d01941"></div>
+              <a href="https://internetdefenseleague.org">
+                <img width="212" height="207" src="https://internetdefenseleague.org/images/badges/final/shield_badge.png"
+                alt="Member of The Internet Defense League">
+              </a>
             </div>
             <div class="sidebar-module icons">
               <a href="/posts.atom" title="Subscribe to my ATOM feed">
@@ -161,5 +163,17 @@
 
     <!-- Google+ -->
     <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+    <!-- Acclaim -->
+    <script type="text/javascript">
+      (function() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
+        var o = document.getElementsByTagName('script')[0];
+        o.parentNode.insertBefore(s, o);
+        })();
+    </script>
   </body>
 </html>
