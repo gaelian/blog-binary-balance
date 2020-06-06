@@ -28,6 +28,6 @@ exclude: ["gaelian.github.io.sublime-project", "Gemfile", "Gemfile.lock", "READM
 excerpt_separator: <!--more-->
 feed:
   path: posts.atom
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-feed
